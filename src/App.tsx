@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ComponentArrastaCola from "./components/ComponentArrastaCola";
-import "./ArrastaSolta.css";
+import "./ArrastaSolte.css";
 import { arrasteSolteHeader } from "./_mock";
 
 type TListObject = {
